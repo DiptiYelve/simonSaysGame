@@ -8,18 +8,18 @@ This project is implemented using **Vanilla JavaScript**, **HTML**, and **CSS**,
 ## Files
 
 - **index.html**: The main HTML file that contains the game structure and links to the CSS and JavaScript files.
-- **style.css**: Contains the CSS styles for the game, including layout, button design, and animations.
-- **game.js**: The JavaScript file containing the logic for the game, managing the sequence, user interaction, and validation.
+- **index.css**: Contains the CSS styles for the game, including layout, button design, and animations.
+- **SimonSaysGame.js**: The JavaScript file containing the logic for the game, managing the sequence, user interaction, and validation.
 
 ## How to Run
 
 1. Download or clone the repository.
 2. Ensure you have the following files in the project directory:
    - `index.html`
-   - `style.css`
-   - `game.js`
+   - `index.css`
+   - `SimonSaysGame.js`
 3. Open the `index.html` file in your web browser.
-4. Press the "Start Game" button to begin playing.
+4. Press any ke on your keyboard to begin playing.
 
 ## Functionality
 
