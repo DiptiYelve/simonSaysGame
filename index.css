@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+div{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 10px;
+}
+#boxContainer{
+    display: flex;
+    width: 400px;
+    height: 300px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin: auto;
+}
+.box1{
+    background-color: rgb(218, 57, 84);
+}
+.box2{
+    background-color: rgb(45, 131, 113);
+}
+.box3{
+    background-color: rgb(243, 152, 83);
+}
+.box4{
+    background-color: rgb(78, 30, 209);
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: green;
+}
